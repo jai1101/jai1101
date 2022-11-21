@@ -1,6 +1,6 @@
 <h1 align = "center"> Hi , I'm Jai Mala </h1>
 
-<h3 align="center">Web developer from Pakistan</h3>
+<h3 align="center">Web developer </h3>
 
 <img align = "right" alt = "coding" width = "400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
